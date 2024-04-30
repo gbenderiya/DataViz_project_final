@@ -18,6 +18,6 @@ We're continuously refining and expanding this project even after the course, an
 
 
 ## Related links:
-* Project Website: https://gbenderiya.github.io/DataViz_project/
+* Project Website: https://gbenderiya.github.io/DataViz_project_final/
 * Project Video: https://youtu.be/bMit2JfUMCQ
 * Progress Book: https://github.com/gbenderiya/DataViz_project_final/blob/main/Processbook.pdf
